@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "hn4mVfRwjIdM8NyvV9JuaKqNk2X4fXh+UAFCKhkNzGE=",
+  "Source": "MISA.EMIS.Api",
+  "BasePath": "_content/MISA.EMIS.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MISA.EMIS.Api\\wwwroot",
+      "Source": "MISA.EMIS.Api",
+      "ContentRoot": "E:\\MisaProject\\EMIS_BE\\MISA.EMIS.Api\\wwwroot\\",
+      "BasePath": "_content/MISA.EMIS.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\MisaProject\\EMIS_BE\\MISA.EMIS.Api\\wwwroot\\TeacherAvatar\\Teacher_SHCB0000.png",
+      "SourceId": "MISA.EMIS.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\MisaProject\\EMIS_BE\\MISA.EMIS.Api\\wwwroot\\",
+      "BasePath": "_content/MISA.EMIS.Api",
+      "RelativePath": "TeacherAvatar/Teacher_SHCB0000.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\TeacherAvatar\\Teacher_SHCB0000.png"
+    },
+    {
+      "Identity": "E:\\MisaProject\\EMIS_BE\\MISA.EMIS.Api\\wwwroot\\TeacherAvatar\\Teacher_SHCB9524.png",
+      "SourceId": "MISA.EMIS.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\MisaProject\\EMIS_BE\\MISA.EMIS.Api\\wwwroot\\",
+      "BasePath": "_content/MISA.EMIS.Api",
+      "RelativePath": "TeacherAvatar/Teacher_SHCB9524.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\TeacherAvatar\\Teacher_SHCB9524.png"
+    }
+  ]
+}

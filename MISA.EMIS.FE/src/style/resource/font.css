@@ -1,0 +1,59 @@
+@font-face {
+    font-family: OpenSans-Regular;
+    src: url(../../assets/Fonts/OpenSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: OpenSans-Bold;
+    src: url(../../assets/Fonts/OpenSans-Bold.ttf);
+}
+
+@font-face {
+    font-family: OpenSans-Semibold;
+    src: url(../../assets/Fonts/OpenSans-Semibold.ttf);
+}
+
+body {
+    font-family: OpenSans-Regular;
+    font-size: 13px;
+}
+
+h1 {
+    font-family: OpenSans-Bold;
+    font-size: 32px;
+}
+
+h2 {
+    font-family: OpenSans-Bold;
+    font-size: 28px;
+}
+
+h3 {
+    font-family: OpenSans-Bold;
+    font-size: 24px;
+}
+
+h4 {
+    font-family: OpenSans-Bold;
+    font-size: 20px;
+}
+
+h5 {
+    font-family: OpenSans-Bold;
+    font-size: 18px;
+}
+
+title {
+    font-family: OpenSans-Semibold;
+    font-size: 16px;
+}
+
+button {
+    font-family: OpenSans-Semibold;
+    font-size: 13px;
+}
+
+::placeholder {
+    font-family: OpenSans-Regular;
+    font-size: 13px;
+}

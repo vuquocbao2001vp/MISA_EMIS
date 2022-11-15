@@ -1,0 +1,143 @@
+.icon-Iconthietbi {
+    background-image: url(../../assets/Icons/ic_IconThietBi.svg);
+}
+
+.icon-Sidebar {
+    background: url(../../assets/Icons/ic_sprites.svg) -18px -18px;
+    width: 16px;
+	height: 16px;
+}
+
+.icon-default-avatar {
+    background-image: url(../../assets/Icons/default_avatar.png);
+}
+
+.icon-TongQuan {
+    background-image: url(../../assets/Icons/ic_TongQuan.svg);
+}
+
+.icon-ThietBi {
+    background-image: url(../../assets/Icons/ic_ThietBi.svg);
+}
+
+.icon-MuonTra {
+    background-image: url(../../assets/Icons/ic_MuonTra.svg);
+}
+
+.icon-BaoCao {
+    background-image: url(../../assets/Icons/ic_BaoCao.svg);
+}
+
+.icon-HeThong {
+    background-image: url(../../assets/Icons/ic_HeThong.svg);
+}
+
+.icon-Help {
+    background-image: url(../../assets/Icons/ic_Help.png);
+}
+
+.icon-sprite-help {
+    background: url(../../assets/Icons/ic_sprites.svg) no-repeat -801px -433px;
+	width: 13px;
+	height: 13px;
+}
+
+.icon-avatar-36 {
+    background-image: url(../../assets/Icons/ic_Avatar_36.png);
+}
+
+.icon-Chevron {
+    background-image: url(../../assets/Icons/ic_Chevron.png);
+}
+
+.icon-Notification-32 {
+    background-image: url(../../assets/Icons/ic_Notification_32.png);
+}
+
+.icon-Search {
+    background-image: url(../../assets/Icons/Ic_seerch.png);
+}
+
+.icon-More {
+    background-image: url(../../assets/Icons/ic_More.png);
+}
+
+.icon-first-page {
+    background-image: url(../../assets/Icons/ic_MoveToFirst.png);
+}
+
+.icon-last-page {
+    background-image: url(../../assets/Icons/ic_MoveToLast.png);
+}
+
+.icon-next {
+    background-image: url(../../assets/Icons/ic_Next.png);
+}
+
+.icon-prev {
+    background-image: url(../../assets/Icons/ic_Back.png);
+}
+
+.icon-avatar {
+    background-image: url(../../assets/Icons/ic_Avatar_36.png);
+}
+
+.icon-X-2 {
+    background-image: url(../../assets/Icons/ic_X_2.png);
+}
+
+.icon-x {
+    background-image: url(../../assets/Icons/ic_X.png);
+}
+
+.icon-check {
+    background-image: url(../../assets/Icons/ic_Check.png);
+}
+
+.icon-delete {
+    background-image: url(../../assets/Icons/ic_delete.png);
+}
+
+.icon-edit:hover {
+    background-image: url(../../assets/Icons/ic_Edit.png);
+}
+
+.icon-edit {
+    background-image: url(../../assets/Icons/ic_edit_2.png);
+}
+
+.icon-remove {
+    background-image: url(../../assets/Icons/ic_Remove.png);
+}
+
+.icon-remove:hover {
+    background-image: url(../../assets/Icons/ic_Remove_Hover.png);
+}
+
+.icon-toast-success {
+    background-image: url(../../assets/Icons/ic_ToastMessage_Success.png);
+}
+
+.icon-toast-fail {
+    background-image: url(../../assets/Icons/ic_ToastMessage_Fail.png);
+}
+
+.icon-close-40 {
+    background-image: url(../../assets/Icons/ic_X_40.png);
+}
+
+.icon-center {
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.icon-right {
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.icon-left {
+    background-repeat: no-repeat;
+    background-position-x: 8px;
+    background-position-y: center;
+}

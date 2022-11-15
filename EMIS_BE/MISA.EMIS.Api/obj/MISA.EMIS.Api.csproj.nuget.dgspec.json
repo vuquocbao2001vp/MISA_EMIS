@@ -1,0 +1,274 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.Api\\MISA.EMIS.Api.csproj": {}
+  },
+  "projects": {
+    "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.Api\\MISA.EMIS.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.Api\\MISA.EMIS.Api.csproj",
+        "projectName": "MISA.EMIS.Api",
+        "projectPath": "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.Api\\MISA.EMIS.Api.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.BLL\\MISA.EMIS.BLL.csproj": {
+                "projectPath": "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.BLL\\MISA.EMIS.BLL.csproj"
+              },
+              "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.Common\\MISA.EMIS.Common.csproj": {
+                "projectPath": "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.Common\\MISA.EMIS.Common.csproj"
+              },
+              "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.DAL\\MISA.EMIS.DAL.csproj": {
+                "projectPath": "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.DAL\\MISA.EMIS.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.BLL\\MISA.EMIS.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.BLL\\MISA.EMIS.BLL.csproj",
+        "projectName": "MISA.EMIS.BLL",
+        "projectPath": "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.BLL\\MISA.EMIS.BLL.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.Common\\MISA.EMIS.Common.csproj": {
+                "projectPath": "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.Common\\MISA.EMIS.Common.csproj"
+              },
+              "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.DAL\\MISA.EMIS.DAL.csproj": {
+                "projectPath": "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.DAL\\MISA.EMIS.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.Common\\MISA.EMIS.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.Common\\MISA.EMIS.Common.csproj",
+        "projectName": "MISA.EMIS.Common",
+        "projectPath": "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.Common\\MISA.EMIS.Common.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.DAL\\MISA.EMIS.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.DAL\\MISA.EMIS.DAL.csproj",
+        "projectName": "MISA.EMIS.DAL",
+        "projectPath": "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.DAL\\MISA.EMIS.DAL.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.Common\\MISA.EMIS.Common.csproj": {
+                "projectPath": "E:\\MisaProject\\MISA_EMIS\\EMIS_BE\\MISA.EMIS.Common\\MISA.EMIS.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.1.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+E:\MisaProject\EMIS_BE\MISA.EMIS.DAL\bin\Debug\net6.0\MISA.EMIS.DAL.deps.json
+E:\MisaProject\EMIS_BE\MISA.EMIS.DAL\bin\Debug\net6.0\MISA.EMIS.DAL.dll
+E:\MisaProject\EMIS_BE\MISA.EMIS.DAL\bin\Debug\net6.0\MISA.EMIS.DAL.pdb
+E:\MisaProject\EMIS_BE\MISA.EMIS.DAL\bin\Debug\net6.0\MISA.EMIS.Common.dll
+E:\MisaProject\EMIS_BE\MISA.EMIS.DAL\bin\Debug\net6.0\MISA.EMIS.Common.pdb
+E:\MisaProject\EMIS_BE\MISA.EMIS.DAL\obj\Debug\net6.0\MISA.EMIS.DAL.csproj.AssemblyReference.cache
+E:\MisaProject\EMIS_BE\MISA.EMIS.DAL\obj\Debug\net6.0\MISA.EMIS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\MisaProject\EMIS_BE\MISA.EMIS.DAL\obj\Debug\net6.0\MISA.EMIS.DAL.AssemblyInfoInputs.cache
+E:\MisaProject\EMIS_BE\MISA.EMIS.DAL\obj\Debug\net6.0\MISA.EMIS.DAL.AssemblyInfo.cs
+E:\MisaProject\EMIS_BE\MISA.EMIS.DAL\obj\Debug\net6.0\MISA.EMIS.DAL.csproj.CoreCompileInputs.cache
+E:\MisaProject\EMIS_BE\MISA.EMIS.DAL\obj\Debug\net6.0\MISA.EMIS.DAL.csproj.CopyComplete
+E:\MisaProject\EMIS_BE\MISA.EMIS.DAL\obj\Debug\net6.0\MISA.EMIS.DAL.dll
+E:\MisaProject\EMIS_BE\MISA.EMIS.DAL\obj\Debug\net6.0\refint\MISA.EMIS.DAL.dll
+E:\MisaProject\EMIS_BE\MISA.EMIS.DAL\obj\Debug\net6.0\MISA.EMIS.DAL.pdb
+E:\MisaProject\EMIS_BE\MISA.EMIS.DAL\obj\Debug\net6.0\ref\MISA.EMIS.DAL.dll

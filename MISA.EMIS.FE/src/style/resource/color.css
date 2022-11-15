@@ -1,0 +1,29 @@
+:root {
+    --main: #03AE66;
+    --main-hover: #02BF70;
+    --button-slide-down-main: #009252;
+    --button-slide-down-hover: #05A25E;
+    --button-white-background: #FFFFFF;
+    --button-black-text: #3D3F4E;
+    --button-grey-text: #A6A6A6;
+    --button-green-text: #03AE66;
+    --button-border: #CECECE;
+    --button-grey-background: #E0E0E0;
+    --button-slide-down-grey: #D6D3D3;
+    --active-sidebar: #0DD469;
+    --menu-sidebar-background: #24344B;
+    --background: #EAECEF;
+    --grid-line-focus: #CCE8FF;
+    --grid-line-focus-hover: #E5F3FF;
+    --link: #0997EB;
+    --delete-icon-hover: #FA3939;
+    --header-grid-panel: #F5F6FA;
+    --header-grid-panel-line: #D5D8E6;
+    --menu-color-text: #F3F4F6;
+    --menu-item-active: #404F64;
+    --white-text: #FFFFFF;
+    --scroll-color: #cccccc;
+    --scroll-hover-color: #8F8F8F;
+    --white-background: #ffffff;
+    --input-focus-border-color: #0DD469;
+}

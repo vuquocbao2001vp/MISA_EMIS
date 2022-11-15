@@ -1,0 +1,17 @@
+E:\MisaProject\EMIS_BE\MISA.EMIS.BLL\bin\Debug\net6.0\MISA.EMIS.BLL.deps.json
+E:\MisaProject\EMIS_BE\MISA.EMIS.BLL\bin\Debug\net6.0\MISA.EMIS.BLL.dll
+E:\MisaProject\EMIS_BE\MISA.EMIS.BLL\bin\Debug\net6.0\MISA.EMIS.BLL.pdb
+E:\MisaProject\EMIS_BE\MISA.EMIS.BLL\bin\Debug\net6.0\MISA.EMIS.Common.dll
+E:\MisaProject\EMIS_BE\MISA.EMIS.BLL\bin\Debug\net6.0\MISA.EMIS.DAL.dll
+E:\MisaProject\EMIS_BE\MISA.EMIS.BLL\bin\Debug\net6.0\MISA.EMIS.Common.pdb
+E:\MisaProject\EMIS_BE\MISA.EMIS.BLL\bin\Debug\net6.0\MISA.EMIS.DAL.pdb
+E:\MisaProject\EMIS_BE\MISA.EMIS.BLL\obj\Debug\net6.0\MISA.EMIS.BLL.csproj.AssemblyReference.cache
+E:\MisaProject\EMIS_BE\MISA.EMIS.BLL\obj\Debug\net6.0\MISA.EMIS.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\MisaProject\EMIS_BE\MISA.EMIS.BLL\obj\Debug\net6.0\MISA.EMIS.BLL.AssemblyInfoInputs.cache
+E:\MisaProject\EMIS_BE\MISA.EMIS.BLL\obj\Debug\net6.0\MISA.EMIS.BLL.AssemblyInfo.cs
+E:\MisaProject\EMIS_BE\MISA.EMIS.BLL\obj\Debug\net6.0\MISA.EMIS.BLL.csproj.CoreCompileInputs.cache
+E:\MisaProject\EMIS_BE\MISA.EMIS.BLL\obj\Debug\net6.0\MISA.EMIS.BLL.csproj.CopyComplete
+E:\MisaProject\EMIS_BE\MISA.EMIS.BLL\obj\Debug\net6.0\MISA.EMIS.BLL.dll
+E:\MisaProject\EMIS_BE\MISA.EMIS.BLL\obj\Debug\net6.0\refint\MISA.EMIS.BLL.dll
+E:\MisaProject\EMIS_BE\MISA.EMIS.BLL\obj\Debug\net6.0\MISA.EMIS.BLL.pdb
+E:\MisaProject\EMIS_BE\MISA.EMIS.BLL\obj\Debug\net6.0\ref\MISA.EMIS.BLL.dll

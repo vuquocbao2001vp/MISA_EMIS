@@ -1,0 +1,95 @@
+.dx-state-focused {
+  border-color: var(--main) !important;
+}
+.dx-state-active {
+  border-color: var(--main) !important;
+}
+
+.dx-tag-content {
+  border-radius: 4px;
+}
+
+.dx-tag-remove-button {
+  position: absolute;
+  top: -1px;
+  right: 2px;
+  width: 25px;
+  height: 100%;
+}
+
+.dx-checkbox-checked .dx-checkbox-icon {
+  color: #fff;
+}
+
+.dx-checkbox-checked .dx-checkbox-icon:active {
+  background-color: var(--main);
+}
+
+.dx-list.dx-list-select-decorator-enabled
+  .dx-list-item.dx-state-focused
+  .dx-checkbox-icon,
+.dx-list.dx-list-select-decorator-enabled
+  .dx-list-item.dx-state-focused
+  .dx-radiobutton-icon::before,
+.dx-list.dx-list-select-decorator-enabled
+  .dx-list-select-all.dx-state-focused
+  .dx-checkbox-icon,
+.dx-list.dx-list-select-decorator-enabled
+  .dx-list-select-all.dx-state-focused
+  .dx-radiobutton-icon::before {
+  border-color: var(--main) ;
+}
+
+.dx-checkbox-checked .dx-checkbox-icon,
+.dx-list-item-selected .dx-checkbox-icon {
+  background-color: var(--main);
+}
+
+.dx-state-hover .dx-checkbox-icon {
+  border: 1px solid var(--main) !important;
+}
+
+.dx-checkbox-indeterminate .dx-checkbox-icon::before {
+  background-color: #fff;
+}
+
+.dx-texteditor.dx-state-hover {
+  border-color: #bbb !important;
+}
+
+.dx-texteditor.dx-state-focused.dx-editor-outlined {
+  border-color: var(--main);
+}
+
+.dx-checkbox-icon {
+    width: 20px;
+    height: 20px;
+    border-radius: 4px;
+    border: 1px solid #bbb;
+}
+
+.dx-tag-container.dx-texteditor-input-container {
+  padding: 0 4px 0 0;
+  outline: 0;
+}
+
+.dx-list.dx-list-select-decorator-enabled .dx-list-item.dx-state-focused .dx-checkbox-icon, .dx-list.dx-list-select-decorator-enabled .dx-list-item.dx-state-focused .dx-radiobutton-icon::before, .dx-list.dx-list-select-decorator-enabled .dx-list-select-all.dx-state-focused .dx-checkbox-icon, .dx-list.dx-list-select-decorator-enabled .dx-list-select-all.dx-state-focused .dx-radiobutton-icon::before {
+  border: 1px solid;
+  border-radius: 4px !important;
+  border-color: var(--input-focus-border-color) !important;
+}
+.dx-checkbox-checked .dx-checkbox-icon {
+  color: var(--white-text) !important;
+  font-size: 12px !important;
+  text-align: center;
+}
+.dx-checkbox-icon {
+  width: 20px !important;
+  height: 20px !important;
+  border-radius: 4px !important;
+  border: 1px solid #ddd;
+  background-color: #fff;
+}
+.dx-checkbox-indeterminate .dx-checkbox-icon::before {
+  background-color: var(--main) !important;
+}

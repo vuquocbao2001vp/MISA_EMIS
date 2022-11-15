@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MISA.EMIS.BLL\MISA.EMIS.BLL.csproj" />
+    <ProjectReference Include="..\MISA.EMIS.Common\MISA.EMIS.Common.csproj" />
+    <ProjectReference Include="..\MISA.EMIS.DAL\MISA.EMIS.DAL.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\TeacherAvatar\" />
+  </ItemGroup>
+
+</Project>
